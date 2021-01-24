@@ -1,4 +1,10 @@
 title: "João Ângelo"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-search_enabled: false
+search_enabled: true
+#logo: "/assets/images/just-the-docs.png"
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+#aux_links_new_tab: true
+#ga_tracking: UA-5555555-55

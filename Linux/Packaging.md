@@ -1,8 +1,8 @@
 ---
 title: Packaging
 description: 
-parent: DevOps Linux
-permalink: /docs/devops-linux/packaging
+parent: Linux
+permalink: /docs/linux/packaging
 ---
 
 ### Packaging

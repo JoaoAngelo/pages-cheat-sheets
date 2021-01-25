@@ -1,8 +1,8 @@
 ---
 title: Package Management
 description: 
-parent: DevOps Linux
-permalink: /docs/devops-linux/package-management
+parent: Linux
+permalink: /docs/linux/package-management
 ---
 
 See also: <?add topic='Packaging'?> on how to build packages

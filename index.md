@@ -2,7 +2,6 @@
 title: Home
 nav_order: 1
 description: "Uma fonte rápida de pesquisa para trabalhos do dia a dia."
-permalink: /
 ---
 
 # Sobre

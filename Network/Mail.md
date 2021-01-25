@@ -1,3 +1,9 @@
+---
+title: Mail
+description: 
+parent: Network
+permalink: /docs/network/mail
+---
 ### RBLs
 
 -   [mxtoolbox.com](http://mxtoolbox.com) - RBL online check

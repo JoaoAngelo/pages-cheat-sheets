@@ -1,6 +1,8 @@
 ---
-related:
-  cheat-sheet: ['NFS', 'SSH', 'netfilter', 'iptables', 'tcpdump']
+title: Linux Networking
+description: 
+parent: Network
+permalink: /docs/network/linux-networking
 ---
 
 ## Basics

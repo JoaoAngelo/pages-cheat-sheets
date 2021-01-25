@@ -1,3 +1,9 @@
+---
+title: cURL
+description: 
+parent: Network
+permalink: /docs/network/curl
+---
 ## Usage
 
      curl -k https://example.com           # Ignore SSL errors

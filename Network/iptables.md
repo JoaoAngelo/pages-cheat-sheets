@@ -1,6 +1,8 @@
 ---
-related:
-   cheat-sheet: ['netfilter']
+title: iptables
+description: 
+parent: Network
+permalink: /docs/network/iptables
 ---
 
 ## iptables Examples

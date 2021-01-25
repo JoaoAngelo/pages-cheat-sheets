@@ -1,3 +1,9 @@
+---
+title: netfilter
+description: 
+parent: Network
+permalink: /docs/network/netfilter
+---
 ## Syntax
 
     nft list tables

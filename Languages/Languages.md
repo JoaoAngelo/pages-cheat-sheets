@@ -1,3 +1,8 @@
+---
+title: Languages
+has_children: true
+permalink: /docs/languages
+---
 ## Link Collection
 
 - [SVG Elements](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)

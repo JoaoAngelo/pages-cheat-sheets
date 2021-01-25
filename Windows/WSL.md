@@ -1,22 +1,24 @@
+---
+title: WSL
+description: Windows Subsystem for Linux
+---
 
-For a thorough description see [this heise.de article](https://www.golem.de/news/visual-studio-code-wie-docker-mit-wsl-2-funktioniert-2011-151327.htm)
+## Instalação 
 
-## Setup 
-
-Install WSL from CLI
+Instalar o WSL pelo CLI
 
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
-Enable virtualisation support for WSLv2
+Habilitar o suporte ao WSLv2
 
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-Enforce WSLv2 as default
+Forçar rodar as distros com WSLv2 como padrão
 
     wsl --set-default-version 2
 
-## Manage Distros
+## Gerenciar Distribuições Instaladas
 
-    wsl -l [-v]                    # List installed distros
-    wsl --set-default <name>       # Set default distro
-    wsl --set-version <name> 1     # Force distro to run in WSLv1
+    wsl -l [-v]                    # Lista as distros instaladas
+    wsl --set-default <name>       # Seta a distro padrão
+    wsl --set-version <name> 1     # Força uma distro a rodar no WSLv1

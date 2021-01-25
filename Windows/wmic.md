@@ -1,6 +1,7 @@
 ---
 title: WMIC
 description: Windows Management Instrumentation Command-line
+parent: Windows
 ---
 
 ## Exemplos

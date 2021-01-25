@@ -1,6 +1,7 @@
 ---
 title: WSL
 description: Windows Subsystem for Linux
+parent: Windows
 ---
 
 ## Instalação 

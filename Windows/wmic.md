@@ -2,7 +2,9 @@
 title: WMIC
 description: Windows Management Instrumentation Command-line
 parent: Windows
+permalink: /docs/windows/wmic
 ---
+# WMIC - Windows Management Instrumentation Command-line
 
 ## Exemplos
 

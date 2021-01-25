@@ -16,7 +16,7 @@
 title: João Ângelo
 description: Uma fonte rápida de pesquisa para trabalhos do dia a dia.
 #baseurl: "/docs" # the subpath of your site, e.g. /blog
-#url: "https://joaoangelo.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joaoangelo.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/images/just-the-docs.png"
 remote_theme: pmarsceill/just-the-docs
 

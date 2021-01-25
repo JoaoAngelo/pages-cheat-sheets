@@ -2,7 +2,9 @@
 title: WSL
 description: Windows Subsystem for Linux
 parent: Windows
+permalink: /docs/windows/wsl
 ---
+# WSL - Windows Subsystem for Linux
 
 ## Instalação 
 

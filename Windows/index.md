@@ -1,7 +1,7 @@
 ---
 title: Windows
 has_children: true
-nav_order: 2
+permalink: /docs/windows
 ---
 
 # Ferramentas do Windows

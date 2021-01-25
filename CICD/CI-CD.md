@@ -1,3 +1,8 @@
+---
+title: CI-CD
+has_children: true
+permalink: /docs/ci-cd
+---
 ## CD Solutions
 
 - ArgoCD

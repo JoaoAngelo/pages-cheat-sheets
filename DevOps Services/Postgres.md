@@ -1,4 +1,8 @@
 ---
+title: Postgres
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/postgres
 related:
   cheat-sheet: ['PgBouncer']
 ---

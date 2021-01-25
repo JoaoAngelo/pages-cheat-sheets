@@ -1,3 +1,10 @@
+---
+title: Docker Swarm
+description: 
+parent: Container
+permalink: /docs/container/docker-swarm
+---
+
 ## CLI Commands
 
 ### Swarm Management

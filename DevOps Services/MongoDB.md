@@ -1,3 +1,9 @@
+---
+title: MongoDB
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/mongodb
+---
 ### Tuning
 
 [Disable transparent huge

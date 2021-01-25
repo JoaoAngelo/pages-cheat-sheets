@@ -1,3 +1,9 @@
+---
+title: Java
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/java
+---
 ## Heapsize calculation
 
 You can print the effective heap size and RAM settions by using `-XX:+PrintFlagsFinal`. 

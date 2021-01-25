@@ -1,3 +1,9 @@
+---
+title: Jenkins
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/jenkins
+---
 ## JSON API Calls
 
     # Print name of all known jobs

@@ -1,3 +1,9 @@
+---
+title: Redis
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/redis
+---
 When you encounter a Redis instance and you quickly want to learn about
 the setup you just need a few simple commands to peak into the setup. Of
 course it doesn't hurt to look at the official [full command

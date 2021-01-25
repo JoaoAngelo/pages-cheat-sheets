@@ -1,3 +1,9 @@
+---
+title: VM Tuning
+description: 
+parent: Cloud
+permalink: /docs/cloud/vm-tuning
+---
 #### Optimize VM for SAN I/O
 
     echo noop > /sys/block/<disk>/queue/scheduler

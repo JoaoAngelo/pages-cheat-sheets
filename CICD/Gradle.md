@@ -1,3 +1,9 @@
+---
+title: Gradle
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/gradle
+---
 ## Commands
 
       gradle build

@@ -1,3 +1,9 @@
+---
+title: SQLite
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/sqlite
+---
 ### CLI
 
 You can access any sqlite database file, as long there is no other

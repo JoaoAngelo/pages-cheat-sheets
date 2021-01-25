@@ -1,3 +1,9 @@
+---
+title: tcpdump
+description: 
+parent: Network
+permalink: /docs/network/tcpdump
+---
 ## Filter Examples
 
 Check out [tcpdump - Tutorial](http://dmiessler.com/study/tcpdump/) for many usage examples!

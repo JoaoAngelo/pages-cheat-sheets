@@ -1,8 +1,8 @@
 ---
-related:
-  youtube:
-    "UH7wkvcf0ys": Facebook Tech Talk
-    "-h9q2FmX4eo": Caching Best Practices
+title: memcached
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/memcached
 ---
 
 ## Telnet Interface

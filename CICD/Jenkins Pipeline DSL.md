@@ -1,3 +1,9 @@
+---
+title: Jenkins Pipeline DSL
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/jenkins-pipiline-dsl
+---
 ## Using Kubernetes
 
 When running jobs as Kubernetes pods you need to specify/inherit [podTemplates](https://github.com/jenkinsci/kubernetes-plugin)

@@ -1,3 +1,9 @@
+---
+title: rsync
+description: 
+parent: Network
+permalink: /docs/network/rsync
+---
 ## CLI
 
 ### Copying

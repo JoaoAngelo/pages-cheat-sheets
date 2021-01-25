@@ -1,3 +1,9 @@
+---
+title: SSH
+description: 
+parent: Network
+permalink: /docs/network/ssh
+---
 ## OpenSSH Commands
 
 Copy Keys

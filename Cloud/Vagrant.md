@@ -1,3 +1,9 @@
+---
+title: Vagrant
+description: 
+parent: Cloud
+permalink: /docs/cloud/vagrant
+---
 ### CLI Usage
 
     # Get CLI help with

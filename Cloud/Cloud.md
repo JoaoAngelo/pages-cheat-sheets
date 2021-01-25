@@ -1,3 +1,8 @@
+---
+title: Cloud
+has_children: true
+permalink: /docs/cloud
+---
 ## Link Collection
 
 ### Online Tools

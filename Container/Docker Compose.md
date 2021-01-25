@@ -1,3 +1,10 @@
+---
+title: Docker Compose
+description: 
+parent: Container
+permalink: /docs/container/docker-compose
+---
+
 ## Setup Troubleshooting
 
 ### Couldn't connect to Docker daemon at http+docker://localhost - is it running?

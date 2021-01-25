@@ -1,3 +1,8 @@
+---
+title: DevOps Linux
+has_children: true
+permalink: /docs/devops-linux
+---
 ## Links
 
 - [vi - Advanced](http://www.lagmonster.org/docs/vi2.html)

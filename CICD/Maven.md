@@ -1,3 +1,9 @@
+---
+title: Maven
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/maven
+---
 ## Maven Configuration
 
 - [pom.xml](http://maven.apache.org/pom.html)

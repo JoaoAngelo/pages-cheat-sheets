@@ -1,6 +1,8 @@
 ---
-related:
-  cheat-sheet: ['AWS Lambda', 'S3']
+title: Proxmox VE
+description: 
+parent: Cloud
+permalink: /docs/cloud/proxmox-ve
 ---
 
 ## Drawing AWS Architectures

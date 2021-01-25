@@ -1,3 +1,9 @@
+---
+title: NGINX
+description: 
+parent: DevOps Services
+permalink: /docs/devops-services/nginx
+---
 ## Config Syntax
 
 Validate config with [gixy](https://github.com/yandex/gixy) (static

@@ -1,3 +1,9 @@
+---
+title: Jenkins X
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/jenkins-x
+---
 ## Setup
 
     jx create cluster eks --cluster-name=<cluster name> --skip-installation=true

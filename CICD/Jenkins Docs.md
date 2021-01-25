@@ -1,3 +1,9 @@
+---
+title: Jenkins Docs
+description: 
+parent: CI-CD
+permalink: /docs/ci-cd/jenkins-docs
+---
 This is a collection of actually useful Jenkins documentation that is out there in all 
 those not helpful plugin pages and CloudBees/Stackoverflow support tickets.
 

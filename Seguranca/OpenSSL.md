@@ -1,7 +1,7 @@
 ---
 title: OpenSSL
 description: Open Source Secure Sockets Layer
-parent: Segurança
+parent: Seguranca
 permalink: /docs/seguranca/openssl
 related:
   seguranca: ['SSL-Certificates']

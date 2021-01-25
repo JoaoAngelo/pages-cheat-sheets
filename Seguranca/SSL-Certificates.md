@@ -1,7 +1,7 @@
 ---
 title: SSL-Certificates
 description: Secure Sockets Layer Certificates
-parent: Segurança
+parent: Seguranca
 permalink: /docs/seguranca/ssl-certificates
 related:
   seguranca: ['HTTPS', 'OpenSSL']

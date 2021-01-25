@@ -1,7 +1,7 @@
 ---
 title: HTTPS
 description: Hyper Text Transfer Protocol Secure
-parent: Segurança
+parent: Seguranca
 permalink: /docs/seguranca/https
 related:
   seguranca: ['SSL-Certificates', 'OpenSSL']

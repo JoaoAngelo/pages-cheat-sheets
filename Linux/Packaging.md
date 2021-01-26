@@ -22,6 +22,12 @@ permalink: /docs/linux/packaging
         tar Jxf archive.tar.lzma
         tar Jxf archive.tar.xz
 
+### Descompactando um arquivo tar.gz
+    tar -xzvf arquivo.tar.gz
+    
+### Compactando um arquivo tar.gz
+    tar -czvf arquivo.tar.gz pasta
+
 -   Install Debian package build tools
 
         apt-get install devscripts build-essential

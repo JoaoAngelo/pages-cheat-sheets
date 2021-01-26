@@ -9,7 +9,10 @@ related:
 
 ## Instalação
 
- ### Criar uma nova instancia/cluster
+### Instalar Postgres
+    sudo apt-get install postgresql-<version> postgresql-contrib-<version>  
+
+### Criar uma nova instancia/cluster
     pg_createcluster <version> <cluster name>
 
 ### Local da configuração padrão do postgres
@@ -35,16 +38,32 @@ related:
 
 ## psql
 
+
+
 ### Conectando em uma base pelo psql
 
+    sudo -u postgres psql postgres
+    ou
     sudo -u postgres psql -U user1 -p 16432 -h localhost db1
+
+### Alterando a senha de um usuario
+
+    \password postgres
 
 ### Criar usuario no postgres e database
 
     postgres=# create user user1 password 'user1pass';
     postgres=# create database db1 owner user1;
 
-Depois de criarr os usuários e necessário setar no pg_hba.conf para autenticar via md5
+Depois de criar os usuários e necessário setar no pg_hba.conf para autenticar via md5
+
+### Criando base de dados
+
+    sudo -u postgres createdb -e -E LATIN1 -l C -T template0 nomeDatabase
+
+### Deletando uma base de dados
+
+    sudo -u postgres dropdb nomeDatabase
 
 ### Como listar os usuarios para add no arquivo userlist.txt
 
@@ -52,6 +71,12 @@ Depois de criarr os usuários e necessário setar no pg_hba.conf para autenticar
 
 ### Sair do psql
     \q
+
+## Backup
+
+### Restaurando Backup
+
+    sudo -u postgres pg_restore -Fc -n public -d nomeDatabase nomeDatabase.backup
 
 ## SQL
 

@@ -1,8 +1,8 @@
 ---
 title: SQLite
 description: 
-parent: DevOps Services
-permalink: /docs/devops-services/sqlite
+parent: Databases
+permalink: /docs/databases/sqlite
 ---
 ### CLI
 

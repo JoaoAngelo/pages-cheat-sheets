@@ -1,8 +1,8 @@
 ---
 title: Redis
 description: 
-parent: DevOps Services
-permalink: /docs/devops-services/redis
+parent: Databases
+permalink: /docs/databases/redis
 ---
 When you encounter a Redis instance and you quickly want to learn about
 the setup you just need a few simple commands to peak into the setup. Of

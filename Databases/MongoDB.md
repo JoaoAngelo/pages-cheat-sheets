@@ -1,8 +1,8 @@
 ---
 title: MongoDB
 description: 
-parent: DevOps Services
-permalink: /docs/devops-services/mongodb
+parent: Databases
+permalink: /docs/databases/mongodb
 ---
 ### Tuning
 

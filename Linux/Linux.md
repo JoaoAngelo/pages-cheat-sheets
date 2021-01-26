@@ -2,6 +2,7 @@
 title: Linux
 has_children: true
 permalink: /docs/linux
+nav_order: 3
 ---
 ## Links
 
